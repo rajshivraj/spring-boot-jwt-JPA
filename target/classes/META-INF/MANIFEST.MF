@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: telematics-cloud-gm-security
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PatiSh02
+Implementation-Vendor-Id: com.javainuse
+Build-Jdk: 1.8.0_222
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/telematics-cloud-gm-security
+Created-By: Maven Integration for Eclipse
+
